@@ -1,6 +1,9 @@
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
 
 class Solution {
+
     static String buildLowestNumber(String str, int N) {
 
         char chr[] = str.toCharArray();

@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e49081d4-0c1b-4bf6-96eb-d37220497f01" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/AbsoluteListSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/AkkuandBinaryNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/AsteroidCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/BalancedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/BurstTheBaloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Hopscotch2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Missingnumberinmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/WineBuyingandSelling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GFG/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +41,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ij9uGtTWnldXW5Ht2lgwalyohJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -43,8 +59,83 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.BalancedString">
+    <configuration name="AkkuandBinaryNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.AkkuandBinaryNumbers" />
+      <module name="Learning JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsteroidCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.AsteroidCollision" />
+      <module name="Learning JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BalancedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.BalancedString" />
+      <module name="Learning JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Missingnumberinmatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Missingnumberinmatrix" />
+      <module name="Learning JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion" />
+      <module name="Learning JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BalancedString" />
+        <item itemvalue="Application.AsteroidCollision" />
+        <item itemvalue="Application.AkkuandBinaryNumbers" />
+        <item itemvalue="Application.recursion" />
+        <item itemvalue="Application.Missingnumberinmatrix" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +145,24 @@
       <option name="presentableId" value="Default" />
       <updated>1670684346425</updated>
       <workItem from="1670684347566" duration="6838000" />
+      <workItem from="1670762175050" duration="4447000" />
+      <workItem from="1671028121347" duration="6434000" />
+      <workItem from="1671074186109" duration="2143000" />
+      <workItem from="1671108832384" duration="9584000" />
+      <workItem from="1671158249665" duration="6897000" />
+      <workItem from="1671379252381" duration="5207000" />
+      <workItem from="1671463252790" duration="2832000" />
+      <workItem from="1671550632587" duration="4211000" />
+      <workItem from="1671637988014" duration="9593000" />
+      <workItem from="1671713892869" duration="1441000" />
+      <workItem from="1671716235571" duration="9620000" />
+      <workItem from="1671734861632" duration="415000" />
+      <workItem from="1671814633701" duration="2553000" />
+      <workItem from="1671901841939" duration="3103000" />
+      <workItem from="1671976144816" duration="13121000" />
+      <workItem from="1672057503513" duration="7587000" />
+      <workItem from="1672318294489" duration="10234000" />
+      <workItem from="1672379673685" duration="827000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1670684476887</created>
@@ -62,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670684476887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1670762586257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670762586257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +196,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
@@ -90,6 +207,29 @@
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GFG/Test.java</url>
+          <line>2</line>
+          <properties class="GFG.Test" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GFG/AsteroidCollision.java</url>
+          <line>17</line>
+          <properties class="GFG.AsteroidCollision" method="asteroidCollision">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GFG/AbsoluteListSorting.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
